@@ -1,0 +1,3 @@
+data/processed_data/*.cc.txt
+data/original_data/*.cc.txt
+data/vault_data/*.cc.txt
